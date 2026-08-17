@@ -53,7 +53,13 @@ const horseSpawns = [
             {
                 name: "Kentucky Saddler, Grey",
                 rarity: "common"
+            },
+
+            {
+                name: "Kentucky Saddler, Silver Bay",
+                rarity: "common"
             }
+
         ]
     },
 
@@ -160,6 +166,16 @@ const horseSpawns = [
             },
 
             {
+                name: "Morgan, Bay Roan",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Flaxen Chestnut",
+                rarity: "common"
+            },
+
+            {
                 name: "Morgan, Liver Chestnut",
                 rarity: "common"
             },
@@ -198,7 +214,13 @@ const horseSpawns = [
             {
                 name: "Tennessee Walker, Gold Palomino",
                 rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Red Roan",
+                rarity: "common"
             }
+
         ]
     },
 
@@ -383,6 +405,47 @@ const horseSpawns = [
     },
 
     {
+        name: "Rio Bravo 2",
+
+        locationRarity: "uncommon",
+
+        x: 1738,
+        y: 1593,
+
+        horses: [
+            {
+                name: "Morgan, Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Bay Roan",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Flaxen Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Liver Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Palomino",
+                rarity: "common"
+            },
+
+            {
+                name: "Nokota, White Roan",
+                rarity: "uncommon"
+            }
+        ]
+    },
+
+    {
         name: "Hennigan's Stead 1",
 
         locationRarity: "uncommon",
@@ -398,6 +461,11 @@ const horseSpawns = [
 
             {
                 name: "Tennessee Walker, Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Dappled Bay",
                 rarity: "common"
             },
 
@@ -428,9 +496,25 @@ const horseSpawns = [
 
         horses: [
             {
+                name: "Tennessee Walker, Black Rabicano",
+                rarity: "common"
+            },
+
+            {
                 name: "Tennessee Walker, Chestnut",
                 rarity: "common"
             },
+
+            {
+                name: "Tennessee Walker, Dappled Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Gold Palomino",
+                rarity: "common"
+            },
+
 
             {
                 name: "Tennessee Walker, Red Roan",
@@ -495,9 +579,30 @@ const horseSpawns = [
 
         horses: [
             {
+                name: "Morgan, Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Bay Roan",
+                rarity: "common"
+            },
+
+            {
                 name: "Morgan, Flaxen Chestnut",
                 rarity: "common"
+            },
+
+            {
+                name: "Morgan, Liver Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Palomino",
+                rarity: "common"
             }
+
         ]
     },
 
@@ -511,7 +616,17 @@ const horseSpawns = [
 
         horses: [
             {
+                name: "Morgan, Bay",
+                rarity: "common"
+            },
+
+            {
                 name: "Morgan, Bay Roan",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Flaxen Chestnut",
                 rarity: "common"
             },
 
@@ -623,9 +738,18 @@ const horseSpawns = [
                 rarity: "common"
             },
 
+            {
+                name: "Tennessee Walker, Chestnut",
+                rarity: "common"
+            },
 
             {
                 name: "Tennessee Walker, Dappled Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Gold Palomino",
                 rarity: "common"
             },
 
@@ -716,6 +840,11 @@ const horseSpawns = [
             },
 
             {
+                name: "Tennessee Walker, Flaxen Roan",
+                rarity: "rare"
+            },
+
+            {
                 name: "Thoroughbred, Brindle",
                 rarity: "rare"
             },
@@ -778,6 +907,16 @@ const horseSpawns = [
             },
 
             {
+                name: "Morgan, Bay Roan",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Flaxen Chestnut",
+                rarity: "common"
+            },
+
+            {
                 name: "Morgan, Liver Chestnut",
                 rarity: "common"
             },
@@ -826,9 +965,98 @@ const horseSpawns = [
             {
                 name: "Kentucky Saddler, Grey",
                 rarity: "common"
+            },
+
+            {
+                name: "Kentucky Saddler, Silver Bay",
+                rarity: "common"
+            }
+
+        ]
+    },
+
+    {
+        name: "Big Valley 1",
+
+        locationRarity: "uncommon",
+
+        x: 4635,
+        y: 5301,
+
+        horses: [
+            {
+                name: "Morgan, Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Bay Roan",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Flaxen Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Liver Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Palomino",
+                rarity: "common"
+            },
+
+            {
+                name: "American Standardbred, Black",
+                rarity: "uncommon"
+            },
+
+            {
+                name: "American Standardbred, Buckskin",
+                rarity: "uncommon"
             }
         ]
     },
+
+    {
+        name: "Big Valley 2",
+
+        locationRarity: "common",
+
+        x: 4502,
+        y: 5325,
+
+        horses: [
+            {
+                name: "Tennessee Walker, Black Rabicano",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Dappled Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Gold Palomino",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Red Roan",
+                rarity: "common"
+            }
+        ]
+    },
+
 
     {
         name: "Cattail Pond 1",
@@ -840,9 +1068,15 @@ const horseSpawns = [
 
         horses: [
             {
+                name: "Morgan, Bay",
+                rarity: "common"
+            },
+
+            {
                 name: "Morgan, Bay Roan",
                 rarity: "common"
             },
+
             {
 
                 name: "Morgan, Flaxen Chestnut",
@@ -993,6 +1227,11 @@ const horseSpawns = [
             },
 
             {
+                name: "Tennessee Walker, Flaxen Roan",
+                rarity: "rare"
+            },
+
+            {
                 name: "Thoroughbred, Brindle",
                 rarity: "rare"
             },
@@ -1080,6 +1319,11 @@ const horseSpawns = [
 
             {
                 name: "Shire, Dark Bay",
+                rarity: "rare"
+            },
+
+            {
+                name: "Tennessee Walker, Flaxen Roan",
                 rarity: "rare"
             },
 
