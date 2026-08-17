@@ -445,6 +445,189 @@ const horseSpawns = [
         ]
     },
 
+	{
+        name: "Gaptooth Ridge 1",
+
+        locationRarity: "uncommon",
+
+        x: 1135,
+        y: 1788,
+
+        horses: [
+            {
+                name: "Morgan, Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Bay Roan",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Flaxen Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Liver Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Morgan, Palomino",
+                rarity: "common"
+            },
+
+            {
+                name: "American Paint, Overo",
+                rarity: "uncommon"
+            },
+
+            {
+                name: "American Paint, Tobiano",
+                rarity: "uncommon"
+            }
+        ]
+    },
+
+    {
+        name: "Gaptooth Ridge 2",
+
+        locationRarity: "rare",
+
+        x: 817,
+        y: 2055,
+
+        horses: [
+            {
+                name: "American Standardbred, Palomino Dapple",
+                rarity: "rare"
+            },
+
+            {
+                name: "Appaloosa, Leopard",
+                rarity: "rare"
+            },
+
+            {
+                name: "Arabian, Grey",
+                rarity: "rare"
+            },
+
+            {
+                name: "Ardennes, Bay Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Ardennes, Strawberry Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Belgian Draft, Blonde Chestnut",
+                rarity: "rare"
+            },
+
+            {
+                name: "Breton, Red Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Breton, Steel Grey",
+                rarity: "rare"
+            },
+
+            {
+                name: "Dutch Warmblood, Chocolate Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Gypsy Cob, Skewbald",
+                rarity: "rare"
+            },
+
+            {
+                name: "Missouri Foxtrotter, Amber Champagne",
+                rarity: "rare"
+            },
+
+            {
+                name: "Missouri Foxtrotter, Dapple Grey",
+                rarity: "rare"
+            },
+
+            {
+                name: "Shire, Black",
+                rarity: "rare"
+            },
+
+            {
+                name: "Shire, Dark Bay",
+                rarity: "rare"
+            },
+
+            {
+                name: "Tennessee Walker, Flaxen Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Thoroughbred, Brindle",
+                rarity: "rare"
+            },
+
+            {
+                name: "Turkoman, Red Chestnut",
+                rarity: "rare"
+            }
+        ]
+    },
+
+    {
+        name: "Hanging Rock",
+
+        locationRarity: "uncommon",
+
+        x: 3147,
+        y: 2923,
+
+        horses: [
+            {
+                name: "Tennessee Walker, Black Rabicano",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Chestnut",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Dappled Bay",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Gold Palomino",
+                rarity: "common"
+            },
+
+            {
+                name: "Tennessee Walker, Red Roan",
+                rarity: "common"
+            },
+
+            {
+                name: "Mustang, Grullo Dun",
+                rarity: "uncommon"
+            }
+        ]
+    },
+
     {
         name: "Hennigan's Stead 1",
 
@@ -1057,6 +1240,101 @@ const horseSpawns = [
         ]
     },
 
+    {
+        name: "Big Valley 3",
+
+        locationRarity: "rare",
+
+        x: 3950,
+        y: 5890,
+
+        horses: [
+            {
+                name: "American Standardbred, Palomino Dapple",
+                rarity: "rare"
+            },
+
+            {
+                name: "Appaloosa, Leopard",
+                rarity: "rare"
+            },
+
+            {
+                name: "Arabian, Grey",
+                rarity: "rare"
+            },
+
+            {
+                name: "Ardennes, Bay Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Ardennes, Strawberry Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Belgian Draft, Blonde Chestnut",
+                rarity: "rare"
+            },
+
+            {
+                name: "Breton, Red Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Breton, Steel Grey",
+                rarity: "rare"
+            },
+
+            {
+                name: "Dutch Warmblood, Chocolate Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Gypsy Cob, Skewbald",
+                rarity: "rare"
+            },
+
+            {
+                name: "Missouri Foxtrotter, Amber Champagne",
+                rarity: "rare"
+            },
+
+            {
+                name: "Missouri Foxtrotter, Dapple Grey",
+                rarity: "rare"
+            },
+
+            {
+                name: "Shire, Black",
+                rarity: "rare"
+            },
+
+            {
+                name: "Shire, Dark Bay",
+                rarity: "rare"
+            },
+
+            {
+                name: "Tennessee Walker, Flaxen Roan",
+                rarity: "rare"
+            },
+
+            {
+                name: "Thoroughbred, Brindle",
+                rarity: "rare"
+            },
+
+            {
+                name: "Turkoman, Red Chestnut",
+                rarity: "rare"
+            }
+        ]
+    },
 
     {
         name: "Cattail Pond 1",
